@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_project_projects",
+  "info": {
+    "displayName": "Project",
+    "icon": "briefcase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "projectTitle": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "projectSummery": {
+      "type": "string"
+    }
+  }
+}
